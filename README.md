@@ -295,22 +295,14 @@ This project was developed for the **Agentic AI Hackathon with IBM watsonx Orche
 
 **Our Amazing Team:**
 
-- **Oussama Hammach** - Offensive Cybersecurity
-- **Reda Adjar** - Automation Engineer
-- **Yassine Najb** - Software Engineer
-- **Abdullah Jameel** - Software Engineer
-- **Roberto Mas** - DevOps Engineer
-- **Naila Sadia** - UI/UX Designer
+**Oussama Hammach** - Offensive Cybersecurity
+**Reda Adjar** - Automation Engineer
+**Yassine Najb** - Software Engineer
+**Abdullah Jameel** - Software Engineer
+**Roberto Mas** - DevOps Engineer
+**Naila Sadia** - UI/UX Designer
 
 </div>
-
-## 🤝 Contributing
-
-This project was developed as part of the Agentic AI Hackathon with IBM watsonx Orchestrate. For questions or contributions, please contact the team.
-
-## 📄 License
-
-MIT License - See LICENSE file for details
 
 ## 🙏 Acknowledgments
 
