@@ -79,6 +79,24 @@ The Shadow Mentor ensures that every new employee remains **connected, productiv
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
+## 🏗️ Architecture
+
+<div align="center">
+
+### Architecture
+
+<img width="1911" height="944" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/architecture-image-url" />
+
+### Enterprise Suite
+
+<img width="1911" height="944" alt="Enterprise Suite" src="https://github.com/user-attachments/assets/enterprise-suite-image-url" />
+
+</div>
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
+
 ## 🚀 Getting Started
 
 ### Prerequisites
