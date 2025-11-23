@@ -1,0 +1,194 @@
+Role,Project_Title,Task_Sequence,Task_Name,Days_Estimate
+Software Engineer,API Development for Directory,1,Setup Dev Environment & Repo,1
+Software Engineer,API Development for Directory,2,Design Database Schema (SQL),2
+Software Engineer,API Development for Directory,3,Implement GET/POST Endpoints,3
+Software Engineer,API Development for Directory,4,Write Unit Tests,2
+Software Engineer,API Development for Directory,5,Documentation (Swagger),1
+Software Engineer,Legacy Code Bug Fix Sprint,1,Reproduce Reported Bugs locally,1
+Software Engineer,Legacy Code Bug Fix Sprint,2,Analyze Stack Traces & Root Cause,2
+Software Engineer,Legacy Code Bug Fix Sprint,3,Implement Fixes,3
+Software Engineer,Legacy Code Bug Fix Sprint,4,Verify Fixes with QA,1
+Software Engineer,Dashboard UI Implementation,1,Setup React/Vue Project,1
+Software Engineer,Dashboard UI Implementation,2,Create Reusable Components (Cards/Tables),3
+Software Engineer,Dashboard UI Implementation,3,Connect Frontend to Mock API,2
+Software Engineer,Dashboard UI Implementation,4,Style with CSS Framework,2
+Software Engineer,Microservice Logger,1,Research Logging Libraries,1
+Software Engineer,Microservice Logger,2,Implement Structured Logging Wrapper,3
+Software Engineer,Microservice Logger,3,Integrate with Test Service,2
+Software Engineer,Microservice Logger,4,Write Usage Guide,1
+Data Scientist,Customer Churn Analysis,1,Data Collection & Cleaning,2
+Data Scientist,Customer Churn Analysis,2,Exploratory Data Analysis (Pandas),3
+Data Scientist,Customer Churn Analysis,3,Feature Engineering,2
+Data Scientist,Customer Churn Analysis,4,Build Logistic Regression Model,2
+Data Scientist,Sales Forecasting Model,1,Aggregate Historical Sales Data,2
+Data Scientist,Sales Forecasting Model,2,Time Series Visualization,2
+Data Scientist,Sales Forecasting Model,3,Train ARIMA/Prophet Model,3
+Data Scientist,Sales Forecasting Model,4,Evaluate Accuracy (RMSE),1
+Data Scientist,CRM Data Cleanup Pipeline,1,Identify Duplicate Records,1
+Data Scientist,CRM Data Cleanup Pipeline,2,Write Deduplication Script,3
+Data Scientist,CRM Data Cleanup Pipeline,3,Handle Missing Values,2
+Data Scientist,CRM Data Cleanup Pipeline,4,Export Clean Dataset,1
+Data Scientist,A/B Test Dashboard,1,Define Metrics (Conversion Rate),1
+Data Scientist,A/B Test Dashboard,2,Process Raw Log Data,3
+Data Scientist,A/B Test Dashboard,3,Visualize Significance Tests,3
+Data Scientist,A/B Test Dashboard,4,Present Findings,1
+HR Manager,Onboarding Process Audit,1,Review Current Onboarding Docs,2
+HR Manager,Onboarding Process Audit,2,Interview 3 Recent Hires,3
+HR Manager,Onboarding Process Audit,3,Identify 5 Pain Points,2
+HR Manager,Onboarding Process Audit,4,Propose Process Improvements,2
+HR Manager,Employee Engagement Survey,1,Draft Survey Questions,2
+HR Manager,Employee Engagement Survey,2,Setup Survey Tool (Typeform/Workday),1
+HR Manager,Employee Engagement Survey,3,Monitor Responses & Reminders,3
+HR Manager,Employee Engagement Survey,4,Compile Results Report,3
+HR Manager,Policy Handbook Update,1,Review Legal Compliance Changes,2
+HR Manager,Policy Handbook Update,2,Draft Updates for WFH Policy,3
+HR Manager,Policy Handbook Update,3,Review with Senior HR,2
+HR Manager,Policy Handbook Update,4,Publish & Notify Staff,1
+HR Manager,Recruitment Screening,1,Screen 50 Resumes for Jr Roles,3
+HR Manager,Recruitment Screening,2,Conduct 10 Phone Screens,4
+HR Manager,Recruitment Screening,3,Shortlist Candidates for Managers,1
+HR Manager,Recruitment Screening,4,Schedule Interviews,1
+Financial Analyst,Quarterly Expense Variance,1,Export GL Data for Quarter,1
+Financial Analyst,Quarterly Expense Variance,2,Categorize Expenses by Dept,3
+Financial Analyst,Quarterly Expense Variance,3,Calculate Variance vs Budget,2
+Financial Analyst,Quarterly Expense Variance,4,Write Commentary on Key Variances,2
+Financial Analyst,Competitor Benchmarking,1,Gather Competitor Financial Reports,2
+Financial Analyst,Competitor Benchmarking,2,Spread Key Ratios (Margins/Growth),3
+Financial Analyst,Competitor Benchmarking,3,Create Comparison Charts,2
+Financial Analyst,Competitor Benchmarking,4,Draft Summary Slide,1
+Financial Analyst,Budget vs Actuals Dashboard,1,Clean Data Inputs,2
+Financial Analyst,Budget vs Actuals Dashboard,2,Build Excel/PowerBI Data Model,3
+Financial Analyst,Budget vs Actuals Dashboard,3,Create Visuals for Leadership,2
+Financial Analyst,Budget vs Actuals Dashboard,4,Validate Numbers,1
+Financial Analyst,IT Cost Reduction Analysis,1,Analyze SaaS Subscription Spend,3
+Financial Analyst,IT Cost Reduction Analysis,2,Identify Unused Licenses,2
+Financial Analyst,IT Cost Reduction Analysis,3,Model Savings Scenarios,2
+Financial Analyst,IT Cost Reduction Analysis,4,Present Savings Opportunities,1
+Product Owner,User Story Mapping,1,Define Persona & User Journey,2
+Product Owner,User Story Mapping,2,Brainstorm Features with Team,2
+Product Owner,User Story Mapping,3,Map Stories to Backbone,3
+Product Owner,User Story Mapping,4,Identify MVP Slice,1
+Product Owner,Competitor Feature Gap,1,Select 3 Main Competitors,1
+Product Owner,Competitor Feature Gap,2,Deep Dive into Competitor X Feature,3
+Product Owner,Competitor Feature Gap,3,Document Gap Analysis,2
+Product Owner,Competitor Feature Gap,4,Propose Roadmap Additions,2
+Product Owner,Backlog Grooming,1,Review Old Tickets (>6 months),2
+Product Owner,Backlog Grooming,2,Update Acceptance Criteria,3
+Product Owner,Backlog Grooming,3,Prioritize based on Value/Effort,2
+Product Owner,Backlog Grooming,4,Present Refined Backlog,1
+Product Owner,Customer Feedback Tagging,1,Export Support Tickets,1
+Product Owner,Customer Feedback Tagging,2,Categorize Issues by Theme,3
+Product Owner,Customer Feedback Tagging,3,Quantify Frequency of Requests,2
+Product Owner,Customer Feedback Tagging,4,Create Top 10 Requests List,1
+DevOps Engineer,CI/CD Pipeline Optimization,1,Audit Current Jenkins/GitHub Actions,2
+DevOps Engineer,CI/CD Pipeline Optimization,2,Identify Slow Build Steps,2
+DevOps Engineer,CI/CD Pipeline Optimization,3,Implement Caching/Parallelism,3
+DevOps Engineer,CI/CD Pipeline Optimization,4,Verify Deployment Speedup,1
+DevOps Engineer,Docker Containerization,1,Write Dockerfile for Legacy App,2
+DevOps Engineer,Docker Containerization,2,Optimize Image Size (Multi-stage),2
+DevOps Engineer,Docker Containerization,3,Create Docker Compose for Dev,2
+DevOps Engineer,Docker Containerization,4,Test Local Run,1
+DevOps Engineer,AWS Cost Monitoring,1,Tag Resources by Environment,2
+DevOps Engineer,AWS Cost Monitoring,2,Setup AWS Budget Alerts,1
+DevOps Engineer,AWS Cost Monitoring,3,Create Cost Explorer Dashboard,3
+DevOps Engineer,AWS Cost Monitoring,4,Report on Potential Savings,1
+DevOps Engineer,Log Aggregation Setup,1,Deploy ELK/Splunk Agent,2
+DevOps Engineer,Log Aggregation Setup,2,Configure Log Parsing Rules,3
+DevOps Engineer,Log Aggregation Setup,3,Create Kibana/Grafana Dashboard,2
+DevOps Engineer,Log Aggregation Setup,4,Document Troubleshooting Steps,1
+Marketing Lead,Social Media Competitor Audit,1,Analyze Competitor Posting Frequency,2
+Marketing Lead,Social Media Competitor Audit,2,Analyze Engagement Rates,2
+Marketing Lead,Social Media Competitor Audit,3,Identify Top Performing Content Types,3
+Marketing Lead,Social Media Competitor Audit,4,Present Audit Slides,1
+Marketing Lead,Email Campaign Sequence,1,Map out Customer Journey,1
+Marketing Lead,Email Campaign Sequence,2,Draft Copy for 5 Emails,3
+Marketing Lead,Email Campaign Sequence,3,Select Images/Assets,2
+Marketing Lead,Email Campaign Sequence,4,Setup in Automation Tool,2
+Marketing Lead,SEO Content Strategy,1,Conduct Keyword Research,2
+Marketing Lead,SEO Content Strategy,2,Identify Low Competition Keywords,2
+Marketing Lead,SEO Content Strategy,3,Create 5 Blog Outlines,3
+Marketing Lead,SEO Content Strategy,4,Review with Content Team,1
+Marketing Lead,Ad Campaign Structure,1,Define Target Audience Segments,2
+Marketing Lead,Ad Campaign Structure,2,Draft Ad Copy Variations,2
+Marketing Lead,Ad Campaign Structure,3,Design Ad Creative Requests,2
+Marketing Lead,Ad Campaign Structure,4,Setup Campaign Tracking (UTMs),1
+Sales Manager,Lead Qualification Playbook,1,Listen to 10 Sales Calls,3
+Sales Manager,Lead Qualification Playbook,2,Identify Buying Signals,2
+Sales Manager,Lead Qualification Playbook,3,Draft Qualification Questions (BANT),2
+Sales Manager,Lead Qualification Playbook,4,Create Cheat Sheet for SDRs,1
+Sales Manager,CRM Data Enrichment,1,Identify Incomplete Lead Profiles,1
+Sales Manager,CRM Data Enrichment,2,Research Leads via LinkedIn,4
+Sales Manager,CRM Data Enrichment,3,Update CRM Fields,2
+Sales Manager,CRM Data Enrichment,4,Tag High Value Targets,1
+Sales Manager,Cold Email A/B Test,1,Draft Email Version A (Pain point),2
+Sales Manager,Cold Email A/B Test,2,Draft Email Version B (Value prop),2
+Sales Manager,Cold Email A/B Test,3,Send to Batch of 50 Leads,2
+Sales Manager,Cold Email A/B Test,4,Analyze Open/Reply Rates,2
+Sales Manager,Objection Handling FAQ,1,Gather Common Objections from Team,2
+Sales Manager,Objection Handling FAQ,2,Draft Best Practice Responses,3
+Sales Manager,Objection Handling FAQ,3,Roleplay Responses with Peer,2
+Sales Manager,Objection Handling FAQ,4,Finalize PDF Guide,1
+Business Analyst,Process Flow Mapping,1,Interview Operations Team,2
+Business Analyst,Process Flow Mapping,2,Draft "As-Is" Process Map,3
+Business Analyst,Process Flow Mapping,3,Identify Bottlenecks,2
+Business Analyst,Process Flow Mapping,4,Validate Map with Stakeholders,1
+Business Analyst,Portal Requirements,1,Conduct User Focus Group,2
+Business Analyst,Portal Requirements,2,Write Functional Requirements,3
+Business Analyst,Portal Requirements,3,Write Non-Functional Requirements,1
+Business Analyst,Portal Requirements,4,Sign-off Review,1
+Business Analyst,Stakeholder Interviews,1,Schedule Interviews with 5 Dept Heads,1
+Business Analyst,Stakeholder Interviews,2,Conduct Interviews,3
+Business Analyst,Stakeholder Interviews,3,Transcribe & Summarize Key Themes,3
+Business Analyst,Stakeholder Interviews,4,Present Executive Summary,1
+Business Analyst,Legacy Feature Inventory,1,Audit Legacy System Menus,2
+Business Analyst,Legacy Feature Inventory,2,Map Features to Usage Logs,3
+Business Analyst,Legacy Feature Inventory,3,Categorize (Keep/Kill/Rewrite),2
+Business Analyst,Legacy Feature Inventory,4,Create Migration Matrix,1
+Project Manager,Q3 Launch Gantt Chart,1,Define Work Breakdown Structure,2
+Project Manager,Q3 Launch Gantt Chart,2,Estimate Task Durations with Leads,3
+Project Manager,Q3 Launch Gantt Chart,3,Identify Dependencies,2
+Project Manager,Q3 Launch Gantt Chart,4,Build Timeline in Project Tool,1
+Project Manager,Risk Register Compilation,1,Brainstorm Risks with Team,2
+Project Manager,Risk Register Compilation,2,Assess Probability & Impact,2
+Project Manager,Risk Register Compilation,3,Draft Mitigation Plans,3
+Project Manager,Risk Register Compilation,4,Assign Risk Owners,1
+Project Manager,Meeting Tracking System,1,Review Current Meeting Notes,1
+Project Manager,Meeting Tracking System,2,Design Action Item Tracker Template,2
+Project Manager,Meeting Tracking System,3,Implement in Notion/Confluence,2
+Project Manager,Meeting Tracking System,4,Train Team on Usage,1
+Project Manager,Resource Allocation Audit,1,Export Time Tracking Data,1
+Project Manager,Resource Allocation Audit,2,Analyze Utilization Rates,3
+Project Manager,Resource Allocation Audit,3,Identify Over/Under-allocated Staff,2
+Project Manager,Resource Allocation Audit,4,Recommend Re-allocations,1
+QA Engineer,Regression Test Suite,1,Review Feature List,2
+QA Engineer,Regression Test Suite,2,Select Key Test Cases,2
+QA Engineer,Regression Test Suite,3,Execute Manual Tests,4
+QA Engineer,Regression Test Suite,4,Log Defects,1
+QA Engineer,Selenium Login Script,1,Setup Selenium Environment,1
+QA Engineer,Selenium Login Script,2,Inspect DOM Elements,2
+QA Engineer,Selenium Login Script,3,Write Test Script (Java/Python),3
+QA Engineer,Selenium Login Script,4,Run & Debug,1
+QA Engineer,API Postman Collection,1,Review API Documentation,1
+QA Engineer,API Postman Collection,2,Create Requests for Endpoints,3
+QA Engineer,API Postman Collection,3,Add Verification Scripts (Asserts),3
+QA Engineer,API Postman Collection,4,Export Collection for Team,1
+QA Engineer,Bug Report Standardization,1,Audit Last 20 Bug Reports,2
+QA Engineer,Bug Report Standardization,2,Identify Missing Information,1
+QA Engineer,Bug Report Standardization,3,Create New Jira Template,2
+QA Engineer,Bug Report Standardization,4,Write Guide "How to Log Bugs",1
+UX Designer,Heuristic Evaluation,1,Review Nielsen's Heuristics,1
+UX Designer,Heuristic Evaluation,2,Walkthrough Current App,3
+UX Designer,Heuristic Evaluation,3,Document Violations,3
+UX Designer,Heuristic Evaluation,4,Rate Severity,1
+UX Designer,Profile Page Wireframe,1,Sketch Low-Fidelity Concepts,2
+UX Designer,Profile Page Wireframe,2,Create Mid-Fidelity in Figma,3
+UX Designer,Profile Page Wireframe,3,Prototype Interactions,2
+UX Designer,Profile Page Wireframe,4,Internal Review,1
+UX Designer,Competitor UI Analysis,1,Screenshot Competitor Flows,2
+UX Designer,Competitor UI Analysis,2,Analyze Visual Hierarchy,3
+UX Designer,Competitor UI Analysis,3,Identify Interaction Patterns,2
+UX Designer,Competitor UI Analysis,4,Create Moodboard,1
+UX Designer,Usability Testing Setup,1,Define Test Tasks,1
+UX Designer,Usability Testing Setup,2,Write Moderator Script,2
+UX Designer,Usability Testing Setup,3,Recruit 5 Internal Users,2
+UX Designer,Usability Testing Setup,4,Schedule Sessions,1
