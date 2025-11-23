@@ -169,8 +169,6 @@ Shadow_Mentor/
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-## 📄 Tools
-
 ## 🛠️ Technologies
 
 ### Frontend
@@ -187,17 +185,6 @@ Shadow_Mentor/
 - **Flask** - Web framework
 - **IBM Watsonx Orchestrate** - AI agent platform
 - **Requests** - HTTP library
-
-
-
-## 🎨 Design Features
-
-- **Dark Theme** with orange/amber accent colors
-- **Fully Responsive** - works on mobile, tablet, and desktop
-- **Smooth Animations** using Framer Motion
-- **Interactive Charts** with Recharts
-- **Glass Morphism** UI elements
-- **Gradient Accents** throughout
 
 ## 🎯 Key Pages
 
