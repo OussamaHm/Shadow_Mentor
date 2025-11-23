@@ -233,7 +233,7 @@ Shadow_Mentor/
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-## 🔧 Configuration
+## Configuration
 
 ### Watson Orchestrate Setup
 
@@ -262,7 +262,7 @@ const API_BASE_URL = 'http://localhost:5000/api';
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-## 📚 API Documentation
+## API Documentation
 
 See [IBM WATSONX CONNECTION/README.md](./IBM%20WATSONX%20CONNECTION/README.md) for detailed API documentation.
 
@@ -287,21 +287,11 @@ const tasks = await schedulingApi.getTasks('EMP-1001');
 
 This project was developed for the **Agentic AI Hackathon with IBM watsonx Orchestrate**.
 
-## 👥 Meet our Amazing Team
+## Meet our Amazing Team
 
 <div align="center">
 
 ![Team Members](./team.jpg)
-
-**Our Amazing Team:**
-
-**Oussama Hammach** - Offensive Cybersecurity
-**Reda Adjar** - Automation Engineer
-**Yassine Najb** - Software Engineer
-**Abdullah Jameel** - Software Engineer
-**Roberto Mas** - DevOps Engineer
-**Naila Sadia** - UI/UX Designer
-
 </div>
 
 ## 🙏 Acknowledgments
