@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Shadow Mentor Logo](./public/Shadow%20Mentor%20Logo.png)
+<img src="./public/Shadow%20Mentor%20Logo.png" alt="Shadow Mentor Logo" width="200" height="200">
 
 **Built for the Agentic AI Hackathon with IBM watsonx Orchestrate**
 
