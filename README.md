@@ -85,11 +85,11 @@ The Shadow Mentor ensures that every new employee remains **connected, productiv
 
 ### Architecture
 
-<img width="1911" height="944" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/architecture-image-url" />
+<img src="./architecture.png" alt="Shadow Mentor Architecture Diagram" />
 
 ### Enterprise Suite
 
-<img width="1911" height="944" alt="Enterprise Suite" src="https://github.com/user-attachments/assets/enterprise-suite-image-url" />
+<img src="./enterpriseSuite.png" alt="Enterprise Suite Integration" />
 
 </div>
 
