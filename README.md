@@ -29,6 +29,9 @@ The Shadow Mentor is an AI-powered solution built on **IBM Watsonx** designed to
 
 The agent operates on an intelligent loop: **Perceive → Decide → Act**.
 
+<img width="1911" height="944" alt="image" src="https://github.com/user-attachments/assets/0e093229-8f71-40da-bb5e-40030610c60d" />
+
+
 ### 🔍 Perceive (Integration Gaps)
 The agent analyzes the new hire's activity using Watsonx Skills (calendar access, Slack integration, HRIS data). It identifies integration gaps such as:
 - Missing 1:1 meetings
@@ -50,6 +53,9 @@ The agent intervenes proactively by:
 - **Providing real-time support** without being intrusive
 
 ## ✨ Key Employee Features
+
+<img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/0d39097f-2675-4590-9aeb-ef970296486e" />
+
 
 ### 📊 Intelligent Provisioning & Performance Tracking
 - New employees receive **role-specific challenges** and an **initial project** monitored by the Shadow Mentor
