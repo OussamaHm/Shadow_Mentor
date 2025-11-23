@@ -8,9 +8,7 @@
 
 </div>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 🏆 Hackathon
 
@@ -33,9 +31,7 @@ This project was developed for the **Agentic AI Hackathon with IBM watsonx Orche
 
 </div>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 💡 About The Shadow Mentor
 
@@ -92,9 +88,7 @@ The agent intervenes proactively by:
 
 The Shadow Mentor ensures that every new employee remains **connected, productive, and supported** from their very first day.
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+<
 
 ## 🚀 Getting Started
 
@@ -146,9 +140,7 @@ npm run build
 npm run preview
 ```
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 📁 Project Structure
 
@@ -182,9 +174,7 @@ Shadow_Mentor/
 └── package.json
 ```
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 🛠️ Technologies
 
@@ -203,9 +193,7 @@ Shadow_Mentor/
 - **IBM Watsonx Orchestrate** - AI agent platform
 - **Requests** - HTTP library
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 🎨 Design Features
 
@@ -240,9 +228,7 @@ Shadow_Mentor/
 - **My Schedule** (`/my-schedule`) - Calendar and task management
 - **My Performance** (`/my-performance`) - Performance metrics and insights
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 🔧 Configuration
 
@@ -269,9 +255,7 @@ The frontend is configured to connect to the API server at `http://localhost:500
 const API_BASE_URL = 'http://localhost:5000/api';
 ```
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 📚 API Documentation
 
@@ -310,9 +294,7 @@ const tasks = await schedulingApi.getTasks('EMP-1001');
 - Tablet: 640px - 1024px
 - Desktop: > 1024px
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 ## 🤝 Contributing
 
@@ -328,9 +310,7 @@ MIT License - See LICENSE file for details
 - **Hackathon organizers** for the opportunity
 - **Our amazing team** for their dedication and hard work
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+
 
 <div align="center">
 
