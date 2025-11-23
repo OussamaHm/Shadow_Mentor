@@ -1,14 +1,10 @@
-# 👤 The Shadow Mentor: Invisible Onboarding Companion
+# <img width="1563" height="1563" alt="Shadow Mentor Logo" src="https://github.com/user-attachments/assets/c413d4cd-da74-4550-927d-fea2b9a612ce" /> The Shadow Mentor: Invisible Onboarding Companion
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-
-
-<!-- <img src="./public/Shadow%20Mentor%20Logo.png" alt="Shadow Mentor Logo" width="300" height="300"> -->
 <img width="1639" height="858" alt="Screenshot 2025-11-23 185945" src="https://github.com/user-attachments/assets/c34c9ff0-18cd-4f5c-9714-b0eb2fd18eef" />
-
 
 **Built for the Agentic AI Hackathon with IBM watsonx Orchestrate**
 
@@ -17,9 +13,6 @@
  <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
-
-
-# 🏆 Hackathon
 
 ## 💡 About The Shadow Mentor
 
