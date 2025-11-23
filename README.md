@@ -1,14 +1,10 @@
-# 👤 The Shadow Mentor: Invisible Onboarding Companion
+# The Shadow Mentor: Invisible Onboarding Companion
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-
-
-<!-- <img src="./public/Shadow%20Mentor%20Logo.png" alt="Shadow Mentor Logo" width="300" height="300"> -->
 <img width="1639" height="858" alt="Screenshot 2025-11-23 185945" src="https://github.com/user-attachments/assets/c34c9ff0-18cd-4f5c-9714-b0eb2fd18eef" />
-
 
 **Built for the Agentic AI Hackathon with IBM watsonx Orchestrate**
 
@@ -18,9 +14,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-
-# 🏆 Hackathon
-
 ## 💡 About The Shadow Mentor
 
 The Shadow Mentor is an AI-powered solution built on **IBM Watsonx** designed to address the HR challenge of post-onboarding "ghosting." This phase typically occurs after the first week, when new hires start feeling lost and productivity declines as managers become busier. The solution acts as an **Invisible Onboarding Companion** that supports continuous cultural and functional integration.
@@ -28,6 +21,9 @@ The Shadow Mentor is an AI-powered solution built on **IBM Watsonx** designed to
 ## 🧠 Core Innovation & Features
 
 The agent operates on an intelligent loop: **Perceive → Decide → Act**.
+
+<img width="1911" height="944" alt="image" src="https://github.com/user-attachments/assets/0e093229-8f71-40da-bb5e-40030610c60d" />
+
 
 ### 🔍 Perceive (Integration Gaps)
 The agent analyzes the new hire's activity using Watsonx Skills (calendar access, Slack integration, HRIS data). It identifies integration gaps such as:
@@ -50,6 +46,9 @@ The agent intervenes proactively by:
 - **Providing real-time support** without being intrusive
 
 ## ✨ Key Employee Features
+
+<img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/0d39097f-2675-4590-9aeb-ef970296486e" />
+
 
 ### 📊 Intelligent Provisioning & Performance Tracking
 - New employees receive **role-specific challenges** and an **initial project** monitored by the Shadow Mentor
@@ -186,17 +185,6 @@ Shadow_Mentor/
 - **Flask** - Web framework
 - **IBM Watsonx Orchestrate** - AI agent platform
 - **Requests** - HTTP library
-
-
-
-## 🎨 Design Features
-
-- **Dark Theme** with orange/amber accent colors
-- **Fully Responsive** - works on mobile, tablet, and desktop
-- **Smooth Animations** using Framer Motion
-- **Interactive Charts** with Recharts
-- **Glass Morphism** UI elements
-- **Gradient Accents** throughout
 
 ## 🎯 Key Pages
 
