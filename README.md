@@ -19,30 +19,7 @@
 </div>
 
 
-## 🏆 Hackathon
-
-This project was developed for the **Agentic AI Hackathon with IBM watsonx Orchestrate**.
-
-## 👥 Team
-
-<div align="center">
-
-![Team Members](./team.jpg)
-
-**Our Amazing Team:**
-
-- **Oussama Hammach** - Offensive Cybersecurity
-- **Reda Adjar** - Automation Engineer
-- **Yassine Najb** - Software Engineer
-- **Abdullah Jameel** - Software Engineer
-- **Roberto Mas** - DevOps Engineer
-- **Naila Sadia** - UI/UX Designer
-
-</div>
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
-</div>
+# 🏆 Hackathon
 
 ## 💡 About The Shadow Mentor
 
@@ -297,26 +274,27 @@ const performance = await performanceApi.getPerformance('EMP-1001');
 // Get daily tasks
 const tasks = await schedulingApi.getTasks('EMP-1001');
 ```
-
----
-
-## 🎨 Color Palette
-
-- **Primary Orange**: `#F59E0B`
-- **Dark Background**: `#0F0F0F`
-- **Secondary Dark**: `#1A1A1A`
-- **Tertiary Dark**: `#262626`
-
----
-
-## 📱 Responsive Breakpoints
-
-- Mobile: < 640px
-- Tablet: 640px - 1024px
-- Desktop: > 1024px
-
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
+
+This project was developed for the **Agentic AI Hackathon with IBM watsonx Orchestrate**.
+
+## 👥 Meet our Amazing Team
+
+<div align="center">
+
+![Team Members](./team.jpg)
+
+**Our Amazing Team:**
+
+- **Oussama Hammach** - Offensive Cybersecurity
+- **Reda Adjar** - Automation Engineer
+- **Yassine Najb** - Software Engineer
+- **Abdullah Jameel** - Software Engineer
+- **Roberto Mas** - DevOps Engineer
+- **Naila Sadia** - UI/UX Designer
+
 </div>
 
 ## 🤝 Contributing
