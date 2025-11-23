@@ -1,4 +1,4 @@
-# The Shadow Mentor: Invisible Onboarding Companion
+## The Shadow Mentor: Invisible Onboarding Companion
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
@@ -25,21 +25,21 @@ The agent operates on an intelligent loop: **Perceive → Decide → Act**.
 <img width="1911" height="944" alt="image" src="https://github.com/user-attachments/assets/0e093229-8f71-40da-bb5e-40030610c60d" />
 
 
-### 🔍 Perceive (Integration Gaps)
+### Perceive (Integration Gaps)
 The agent analyzes the new hire's activity using Watsonx Skills (calendar access, Slack integration, HRIS data). It identifies integration gaps such as:
 - Missing 1:1 meetings
 - Unaccessed onboarding resources
 - Incomplete tasks
 - Low engagement indicators
 
-### 🎯 Decide (Role-Based Needs)
+### Decide (Role-Based Needs)
 It consults its knowledge base to determine what the employee needs next, including:
 - Identifying their role level (Junior/Senior)
 - Recommending relevant certification paths
 - Suggesting learning roadmaps
 - Matching with appropriate mentors
 
-### ⚡ Act (Discreet Intervention)
+### Act (Discreet Intervention)
 The agent intervenes proactively by:
 - **Automatically scheduling** short check-ins on the manager's calendar with suggested talking points
 - **Sending personalized Slack reminders** with direct links to incomplete tasks
@@ -50,25 +50,25 @@ The agent intervenes proactively by:
 <img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/0d39097f-2675-4590-9aeb-ef970296486e" />
 
 
-### 📊 Intelligent Provisioning & Performance Tracking
+### Intelligent Provisioning & Performance Tracking
 - New employees receive **role-specific challenges** and an **initial project** monitored by the Shadow Mentor
 - **Performance scoring** system tracks progress
 - **Structured assessments** with limited retakes before progressing to certificates
 - Real-time project monitoring and task completion tracking
 
-### 📚 Follow-Up & Continuous Development
+### Follow-Up & Continuous Development
 - Tracks progress across **certification paths**
 - Displays **personalized roadmaps** for each role (e.g., Software Engineer, Data Scientist, DevOps Engineer)
 - Provides **salary progression insights** based on upcoming certifications
 - Shows certification completion status and next steps
 
-### 📅 Smart Scheduling
+### Smart Scheduling
 - **Smart calendar** organizes daily tasks and meetings
 - Switch between **active (AI-driven)** or **manual scheduling** modes
 - **Predictive indicator** shows whether the employee's pace is aligned with peers
 - Automatic meeting scheduling and conflict detection
 
-### 🤝 Cultural Integration
+### Cultural Integration
 - Enhances cultural onboarding by **pairing new hires with a Buddy** based on shared interests
 - Facilitates team connections and social integration
 - Tracks cultural engagement metrics
