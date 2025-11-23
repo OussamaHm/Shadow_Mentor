@@ -8,6 +8,9 @@
 
 </div>
 
+ <div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 
 ## 🏆 Hackathon
@@ -31,7 +34,9 @@ This project was developed for the **Agentic AI Hackathon with IBM watsonx Orche
 
 </div>
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 💡 About The Shadow Mentor
 
@@ -88,7 +93,9 @@ The agent intervenes proactively by:
 
 The Shadow Mentor ensures that every new employee remains **connected, productive, and supported** from their very first day.
 
-<
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 🚀 Getting Started
 
@@ -140,7 +147,9 @@ npm run build
 npm run preview
 ```
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 📁 Project Structure
 
@@ -174,7 +183,9 @@ Shadow_Mentor/
 └── package.json
 ```
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 🛠️ Technologies
 
@@ -228,7 +239,9 @@ Shadow_Mentor/
 - **My Schedule** (`/my-schedule`) - Calendar and task management
 - **My Performance** (`/my-performance`) - Performance metrics and insights
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 🔧 Configuration
 
@@ -255,7 +268,9 @@ The frontend is configured to connect to the API server at `http://localhost:500
 const API_BASE_URL = 'http://localhost:5000/api';
 ```
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 📚 API Documentation
 
@@ -294,7 +309,9 @@ const tasks = await schedulingApi.getTasks('EMP-1001');
 - Tablet: 640px - 1024px
 - Desktop: > 1024px
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 🤝 Contributing
 
@@ -310,7 +327,9 @@ MIT License - See LICENSE file for details
 - **Hackathon organizers** for the opportunity
 - **Our amazing team** for their dedication and hard work
 
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 <div align="center">
 
