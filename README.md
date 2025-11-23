@@ -87,7 +87,8 @@ The Shadow Mentor ensures that every new employee remains **connected, productiv
 
 <img src="./architecture.png" alt="Shadow Mentor Architecture Diagram" />
 
-### Enterprise Suite
+
+## Enterprise Suite Integrated With IBM Watsonx Orchestrate
 
 <img src="./enterpriseSuite.png" alt="Enterprise Suite Integration" />
 
