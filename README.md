@@ -1,4 +1,4 @@
-<img width="1563" height="1563" alt="Shadow Mentor Logo" src="https://github.com/user-attachments/assets/c413d4cd-da74-4550-927d-fea2b9a612ce" /> # The Shadow Mentor: Invisible Onboarding Companion
+# The Shadow Mentor: Invisible Onboarding Companion
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
